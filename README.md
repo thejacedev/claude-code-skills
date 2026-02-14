@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.png" alt="thejacedev skills" width="100%">
+</p>
+
 # thejacedev Claude Code Skills
 
 A collection of Claude Code plugins for image generation and creative tasks.

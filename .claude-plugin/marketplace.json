@@ -20,6 +20,14 @@
       "author": {
         "name": "thejacedev"
       }
+    },
+    {
+      "name": "img-cropper",
+      "source": "./plugins/img-cropper",
+      "description": "Auto-crop images by trimming blank/transparent space around the content.",
+      "author": {
+        "name": "thejacedev"
+      }
     }
   ]
 }

@@ -1,0 +1,5 @@
+{
+  "name": "img-cropper",
+  "version": "0.1.0",
+  "description": "Auto-crop images by trimming blank/transparent space around the content."
+}

@@ -1,0 +1,25 @@
+{
+  "name": "thejacedev-skills",
+  "description": "OpenAI image generation and other skills for Claude Code",
+  "owner": {
+    "name": "thejacedev"
+  },
+  "plugins": [
+    {
+      "name": "openai-image-gen",
+      "source": "./plugins/openai-image-gen",
+      "description": "Generate images using OpenAI's gpt-image-1.5 model via the Images API.",
+      "author": {
+        "name": "thejacedev"
+      }
+    },
+    {
+      "name": "pixel-art-gen",
+      "source": "./plugins/pixel-art-gen",
+      "description": "Generate pixel art PNGs from text descriptions. Claude designs the art and renders it via a bundled Python script.",
+      "author": {
+        "name": "thejacedev"
+      }
+    }
+  ]
+}

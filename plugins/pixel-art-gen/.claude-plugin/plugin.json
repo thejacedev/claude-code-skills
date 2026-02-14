@@ -1,0 +1,5 @@
+{
+  "name": "pixel-art-gen",
+  "version": "0.1.0",
+  "description": "Generate pixel art PNGs from text descriptions. Claude designs the art and renders it via a bundled Python script."
+}

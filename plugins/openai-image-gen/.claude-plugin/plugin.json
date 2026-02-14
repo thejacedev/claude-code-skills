@@ -1,0 +1,5 @@
+{
+  "name": "openai-image-gen",
+  "version": "0.1.1",
+  "description": "Generate images using OpenAI's gpt-image-1.5 model via the Images API."
+}
